@@ -7,4 +7,7 @@ https://github.com/CharlesStover/reactn
 Lingui is an easy yet powerful internationalization framework for global projects.
 https://lingui.js.org/
 
+## Codesandbox
+https://codesandbox.io/s/tic-tac-toe-reactn-i18n-9hcj5
+
 
