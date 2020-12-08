@@ -6,6 +6,7 @@
     "Next move: {nextValue}": ["D\xE9placement suivant: ", ["nextValue"]],
     Reset: "R\xE9initialiser",
     "Start the game": "D\xE9marrer le jeu",
+    "Switch to": "Basculer vers",
     "Welcome! Today is {0}": ["Bienvenue! Aujourd'hui, c'est ", ["0"]],
     "Winner is {winner}!": ["Le gagnant est ", ["winner"], "!"],
     "{0}": [["0"], " "],

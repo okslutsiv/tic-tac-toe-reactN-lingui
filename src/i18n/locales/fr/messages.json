@@ -5,6 +5,7 @@
   "Next move: {nextValue}": "Déplacement suivant: {nextValue}",
   "Reset": "Réinitialiser",
   "Start the game": "Démarrer le jeu",
+  "Switch to": "Basculer vers",
   "Welcome! Today is {0}": "Bienvenue! Aujourd'hui, c'est {0}",
   "Winner is {winner}!": "Le gagnant est {winner}!",
   "{0}": "{0} "
